@@ -19,5 +19,5 @@ private:
 };
 
 // 使用例
-// json data("C:\\Users\\ASKmenot\\Desktop\\load_me.json");
+// json data("load_me.json");
 // std::cout << data.get()["message"] << '\n';
